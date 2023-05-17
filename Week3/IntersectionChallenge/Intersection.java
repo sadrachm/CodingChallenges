@@ -1,4 +1,4 @@
-package IntersectionChallenge;
+package Week3.IntersectionChallenge;
 import java.util.*;
 public class Intersection {
     public static boolean check(Node a, Node b) {

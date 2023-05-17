@@ -1,7 +1,7 @@
-package LoopDetectionChallenge;
+package Week3.LoopDetectionChallenge;
 import java.util.HashSet;
 
-import IntersectionChallenge.Node;
+import Week3.IntersectionChallenge.Node;
 
 public class LoopDetection {
     public static Node check(Node e) {

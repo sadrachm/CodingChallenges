@@ -1,6 +1,6 @@
-package LoopDetectionChallenge;
+package Week3.LoopDetectionChallenge;
 
-import IntersectionChallenge.Node;
+import Week3.IntersectionChallenge.Node;
 
 public class LoopDetectionTest {
     public static void main(String[] args) {

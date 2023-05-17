@@ -1,4 +1,4 @@
-package IntersectionChallenge;
+package Week3.IntersectionChallenge;
 public class IntersectionTest {    
 
     public static void main(String[] args) {        

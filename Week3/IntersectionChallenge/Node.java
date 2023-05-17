@@ -1,4 +1,4 @@
-package IntersectionChallenge;
+package Week3.IntersectionChallenge;
 public class Node {    
     public Node next = null;
     public int data = 0;
